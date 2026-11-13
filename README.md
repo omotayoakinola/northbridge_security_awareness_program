@@ -35,6 +35,14 @@ Every part of the program traces back to a real risk, so nothing is training for
 4. Governance thinking: sponsorship, ownership, quarterly reviews and a continuous improvement loop
 5. Alignment with recognised practice, including ISO/IEC 27001:2022 control 6.3 and NIST SP 800-50
 
+## References
+
+1. GRC206 course material, *Designing a Security Awareness Program* (slides), and GRC206 Assignment Handout, *Design a Security Awareness Program* (Northbridge Logistics scenario).
+2. ISO/IEC 27001:2022, Annex A, control 6.3, information security awareness, education and training.
+3. NIST Special Publication 800-50, *Building an Information Technology Security Awareness and Training Program*.
+4. NIST Special Publication 800-63B, *Digital Identity Guidelines: Authentication and Lifecycle Management* (guidance on screening passwords against breached lists).
+5. UK National Cyber Security Centre, *Phishing attacks: dealing with suspicious messages* and *Phishing attacks: defending your organisation*.
+
 ## Notes
 
 This is a course assignment (GRC206) using a fictional organisation. All figures and targets are planning choices, not real results. Scenario facts, proposals and assumptions are labelled in the report.
