@@ -4,7 +4,7 @@
 
 ## What is in this repository
 
-**GRC206_Security_Awareness_Program_2025_GCR_12813.pdf** is the full submission: a 6 page report covering assess, plan, deliver, measure and improve, followed by a one page 12 month program calendar.
+[Read the full program (PDF, 6 page report plus 1 page calendar)](./GRC206_Security_Awareness_Program_2025_GCR_12813.pdf)
 
 ## The scenario
 
